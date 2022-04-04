@@ -1,0 +1,27 @@
+
+{
+    "name": "nodejs-upload-image-mysql-multer",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+      "start": "nodemon app.js"
+    },
+    "author": {
+      "name": "Adam",
+      "email": "jstutorials1@gmail.com",
+      "url": "https://www.js-tutorials.com/"
+    },
+    "license": "MIT",
+    "dependencies": {
+      "body-parser": "^1.16.1",
+      "ejs": "^2.5.6",
+      "express": "^4.14.1",
+      "multer": "^1.3.1",
+      "mysql": "^2.13.0"
+    },
+    "devDependencies": {
+      "nodemon": "^1.18.4"
+    }
+  }
+  
